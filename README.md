@@ -19,12 +19,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-<div>
-    <a href="https://www.loom.com/share/3c379cf28aaa416db3aae41a6ee7fa8c">
+ <div>
+    <a href="https://www.loom.com/share/9d52d38a4d154223ae5478fa37ad5cda">
       <p>iOS recording - 24 Jul 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/3c379cf28aaa416db3aae41a6ee7fa8c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3c379cf28aaa416db3aae41a6ee7fa8c-6453b68489bdf9d6-full-play.gif">
+    <a href="https://www.loom.com/share/9d52d38a4d154223ae5478fa37ad5cda">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9d52d38a4d154223ae5478fa37ad5cda-eae4f4c03d6958f2-full-play.gif">
     </a>
   </div>
 
